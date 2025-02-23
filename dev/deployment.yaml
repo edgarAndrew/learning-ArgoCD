@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nanajanashia/argocd-app:1.2
+        image: thunderblade03/helloworld.js:0.0.1.RELEASE
         ports:
         - containerPort: 8080
